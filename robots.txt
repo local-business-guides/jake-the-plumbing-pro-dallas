@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/jake-the-plumbing-pro-dallas/sitemap.xml
+Sitemap: https://local-business-guides.github.io/jake-the-plumbing-pro-dallas/news-sitemap.xml
